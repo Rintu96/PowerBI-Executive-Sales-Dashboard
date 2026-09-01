@@ -52,13 +52,3 @@ FILTER(
     'SalesData_1000Rows_WithIssues_copy'[Region] = "East"
 )
 
-## 📈** Dashboard Architecture & Insights**
-Executive KPI Strip: Top row featuring 4 high-contrast KPI cards displaying Total Sales, Total Profit, Total Orders, and Profit Margin %
-
-Regional Order Distribution: Donut/Pie visual analyzing distribution across geographic territories
-
-Top 5 Trending Products: Clustered Column chart with a dynamic Top N filter highlighting highest order counts
-
-Profit Performance Timeline: Area chart showcasing historical profit trajectories over time
-
-Interactive Controls: Left navigation sidebar featuring dynamic region/year slicers and a custom Reset Filters button
