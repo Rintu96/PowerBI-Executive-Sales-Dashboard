@@ -6,8 +6,6 @@ An end-to-end interactive Power BI analytical solution built for executive leade
 
 ## 📸 Dashboard Preview
 
-![Executive Sales Dashboard Preview](./dashboard_preview.png)
-
 > **UI Theme:** Dark Mode (`#1E293B` Navy Canvas, glowing visual card accents)  
 > **Source Dataset:** `SalesData_1000Rows_WithIssues_copy.csv`
 
